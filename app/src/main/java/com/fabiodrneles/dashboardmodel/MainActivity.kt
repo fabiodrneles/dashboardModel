@@ -103,7 +103,7 @@ fun Dashboard() {
                     )
 
                     Text(
-                        text = "Fabio Dorneles",
+                        text = "Fulano De Tal",
                         color = Color.White,
                         fontSize = 22.sp,
                         fontWeight = FontWeight.Bold,
